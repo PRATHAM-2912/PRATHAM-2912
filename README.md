@@ -4,6 +4,8 @@ Currently in my 3rd year, passionate about technology and innovation.
 ## 💻 Programming Skills
 C Programming
 HTML & CSS
+Tailwind CSS
+MERN Stack Developer
 
 ## ✈️ Aeromodelling Enthusiast
 Experience with RC planes and drones
