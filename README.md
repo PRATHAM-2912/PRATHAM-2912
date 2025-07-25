@@ -2,13 +2,10 @@
 Currently in my 3rd year, passionate about technology and innovation.
 
 ## 💻 Programming Skills
-C Programming
-HTML & CSS
-Tailwind CSS
-MERN Stack Developer
+C || C++ || HTML || CSS || Tailwind CSS || MERN Stack Developer
 
 ## ✈️ Aeromodelling Enthusiast
-Experience with RC planes and drones
+Experience with RC planes and drones || Conduct Workshops in Schools and Colleges
 
 ## 🔨 Projects
 Hospital Management Website: 
@@ -16,7 +13,7 @@ A web-based solution for managing hospital operations.
 RC Plane: 
 Designed and built an RC plane for aeromodelling.
 Drone: 
-Developed a functional drone from scratch.
+Developed a functional drone.
 
 ## 🌱 Currently Learning
 Web development
