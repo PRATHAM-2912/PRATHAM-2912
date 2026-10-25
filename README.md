@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathamesh Thange
 
-### 💻 Computer Science Graduate | Java Developer | MERN Stack Developer | UAV Enthusiast
+### 💻 Computer Science Graduate | Java Developer | Full Stack Developer | UAV Enthusiast
 
 I'm a 2026 B.Tech Computer Science & Engineering graduate from Poornima College of Engineering, Jaipur.  
 I'm interested in software development, web technologies, and building practical solutions through technology.
@@ -10,7 +10,7 @@ I'm interested in software development, web technologies, and building practical
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — 2026
-- 💻 Interested in **Java Development & MERN Stack Development**
+- 💻 Interested in **Java Development & Full Stack Development**
 - 🌐 Experience with **HTML, CSS, JavaScript, React, Node.js & MongoDB**
 - ☕ Currently improving my **Java, Spring Boot & DSA** skills
 - 🚁 Hands-on experience with **RC Planes, Drones & UAV Technologies**
@@ -24,13 +24,13 @@ I'm interested in software development, web technologies, and building practical
 ## 🛠️ Technical Skills
 
 ### Programming
-`Java` `C` `C++` `JavaScript` `SQL` `Python`
+`Java` `C` `C++` `JavaScript` `SQL` 
 
 ### Web Development
 `HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `REST APIs`
 
 ### Database
-`MySQL` `MongoDB`
+`MySQL` 
 
 ### Tools & Technologies
 `Git` `GitHub` `VS Code` `Postman` `Linux` `AWS`
@@ -41,6 +41,12 @@ I'm interested in software development, web technologies, and building practical
 ---
 
 ## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+
+Web-based application for managing patient records, doctor information, and appointments using REST APIs.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ### 🛒 E-Commerce Website
 
@@ -54,11 +60,7 @@ Secure authentication and authorization application using Microsoft Entra ID wit
 
 **Tech:** `Java` `Spring Boot` `MySQL` `REST API` `Microsoft Entra ID`
 
-### 💰 FinSmart
 
-A web-based finance management project for tracking and visualizing financial data.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Chart.js` `SQL`
 
 ### 🚁 UAV & Aeromodelling Projects
 
@@ -81,7 +83,6 @@ Designed, built and tested RC aircraft and drones, with hands-on experience in f
 - Java & Spring Boot
 - React.js
 - Node.js & Express.js
-- MongoDB
 - Data Structures & Algorithms
 - REST API Development
 
